@@ -14,7 +14,7 @@ function isPalindrome(word) {
   }
    word = prompt('Enter a word:')
   //call the function
-  isPalindrome(madam);
+  console.log(isPalindrome(madam));
   
 }
 
